@@ -1,0 +1,7 @@
+What are the benefits of GitHub?
+
+It is useful for contributing to open source projects, like collaberating on large R scripts
+
+It makes version control much easier - analyses, code, graphs can be held together, with people collaberating remotely at the same time, on different branches
+
+
