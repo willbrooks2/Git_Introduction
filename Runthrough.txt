@@ -1,0 +1,19 @@
+Git Runthrough (Setup)
+
+#Right click in chosen folder, select GitBash here (in UDAL)
+
+#initialise repository
+git init
+
+#create username and user-email
+git config --global user.name "username"
+git config --global user.email "abcde@nhs.net"
+
+#check status of the repository
+git status
+
+#externally, add a file to the folder, then use the 'add' command so that Git can track it
+git add .
+
+#commit the file to the master branch (this will usually be the main file), and add a message
+git commit -m "First file committed"
