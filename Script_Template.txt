@@ -1,0 +1,51 @@
+#initialise repository
+git init
+
+#create username and user email
+git config --global user.name "username123"
+git config --global user.email "useremail@nhs.net"
+
+#add files manually to local folder, then add to repo
+git add .
+
+#check the status of the files, do they need to be committed?
+git status
+
+#commit the files to the repo and leave a message
+git commit -m "First Files Committed"
+
+#check that your working branch is clean
+git status
+
+#create another branch to make changes to a document outside the main branch, and move to that branch
+git checkout -b edit_branch
+
+#check which branch you're on
+git branch
+
+#make edits to your chosen file, and check the status of the branch
+git status
+
+#add those changes to be tracked
+git add .
+
+#commit those changes to this branch 
+git commit -m "first edit"
+
+#move back to main branch, and see in the chosen file, that nothing has changed. This is because it is solely on the edit_branch
+git checkout master
+
+#If you want to merge this change with the main branch, you must be on the master branch
+git merge edit_branch
+
+#check the status of the branch
+git status
+
+#check the version control log
+git log
+
+#manually check the file to see if the changes have been made to the main document, then look to push this to your GitHub remote repo
+git push master origin https://github.com/username123/File_Name.git
+
+#check GitHub repo to see if the master has been pushed, and then push your other branch if you like
+git push first_edit
