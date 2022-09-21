@@ -1,9 +1,0 @@
-This folder contains an Introduction to GitHub
-
-It should outline:
-
-The uses of GitHub
-The commands used in GitHub
-Getting Started in GitHub
-
-This is an edit on the branch_WB
