@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>An xample script when setting up a repository with files in GitBash and GitHub</title>
+</head>
+</html>
+
 #initialise repository
 git init
 
