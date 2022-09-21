@@ -24,6 +24,9 @@ git commit -m "First Files Committed"
 #check that your working branch is clean
 git status
 
+#check what files you have on your branch
+ls
+
 #create another branch to make changes to a document outside the main branch, and move to that branch
 git checkout -b edit_branch
 
