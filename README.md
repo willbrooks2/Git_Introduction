@@ -18,5 +18,7 @@ This is an introduction to GitHub for AIF Payments
 <p>This repository contains a PowerPoint presentation on Git, a Script Template for Getting Started and a File containing all commands that may be required for using Git successfully</p>
 <h2>Some Useful Links</h2>
 <li> <a href="https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/">An Introduction to Git</a></li>
+<li><a href="https://github.com/">GitHub</a></li>
+<li><a href="https://www.w3schools.com/git/default.asp">Git Basic Tutorial</a></li>
 </body>
 </html>
