@@ -20,6 +20,6 @@ This is an introduction to GitHub for AIF Payments
 <li> <a href="https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/">An Introduction to Git</a></li>
 <li><a href="https://github.com/">GitHub</a></li>
 <li><a href="https://www.w3schools.com/git/default.asp">Git Basic Tutorial</a></li>
-<li>Benefitting from<a href="https://docs.github.com/en/organizations"> Creating an Organisation</a></li>
+<li><a href="https://docs.github.com/en/organizations"> Creating an Organisation</a></li>
 </body>
 </html>
