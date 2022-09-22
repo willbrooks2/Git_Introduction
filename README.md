@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-This is an introduction to GitHub for AIF Payments
+This is an introduction to GitHub for AIF Payments. It should provide you with relevant information to get started.
 </head>
 <body>
 <h2>Introducing GitHub</h2>
