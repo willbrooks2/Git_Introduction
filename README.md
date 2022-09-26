@@ -6,8 +6,8 @@ This is an introduction to GitHub for AIF Payments. It should provide you with r
 </head>
 <body>
 <h2>Introducing GitHub</h2>
-<p>This is the basis to some beneficial progress in version control for PLICS iterations.</p>
-<p>This is just an example of how Git can be used, and why it can be beneficial to the team!</p>
+<p>This is the basis to some beneficial progress in version control</p>
+<p>It is an example of how Git can be used, and why it can be beneficial to the team!</p>
 <h2>Useful Features</h2>
 <li>Creating an organisation which allows us to store and collaborate</li>
 <li>Open source platform for transparency</li>
