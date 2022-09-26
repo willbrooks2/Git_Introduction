@@ -14,12 +14,20 @@ This is an introduction to GitHub for AIF Payments. It should provide you with r
 <li>Stored version control and edit log</li>
 <li>Intuitive and accessible program</li>
 <li>Collaboration between project members on code files, word documents etc.</li>
+<br>
+<p>The documents and links within this repository will continually develop as we learn more about how we can use Git</p>
 <h2>What does this repository contain?</h2>
-<p>This repository contains a PowerPoint presentation on Git, a Script Template for Getting Started and a File containing all commands that may be required for using Git successfully</p>
+<p>This repository contains:</p> 
+<li>A PowerPoint presentation on Git</li>
+<li>A Script Template for Getting Started</li> 
+<li>A File containing all commands that may be required for using Git successfully</li>
 <h2>Some Useful Links</h2>
 <li> <a href="https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/">An Introduction to Git</a></li>
 <li><a href="https://github.com/">GitHub</a></li>
 <li><a href="https://www.w3schools.com/git/default.asp">Git Basic Tutorial</a></li>
 <li><a href="https://docs.github.com/en/organizations"> Creating an Organisation</a></li>
+<li><a href="https://www.git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F">What is Git?</a></li>
+<br>
+<p>These links should give you some insight into how Git functions, and get you started using Git confidently<p>
 </body>
 </html>
