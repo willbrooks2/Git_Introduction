@@ -27,6 +27,9 @@ This is an introduction to GitHub for AIF. It should provide you with relevant i
 <li><a href="https://www.w3schools.com/git/default.asp">Git Basic Tutorial</a></li>
 <li><a href="https://docs.github.com/en/organizations"> Creating an Organisation</a></li>
 <li><a href="https://www.git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F">What is Git?</a></li>
+<li><a href="https://opensource.com/article/20/7/git-best-practices#:~:text=6%20best%20practices%20for%20teams%20using%20Git%201,executable%20print%20the%20tag%20...%207%20Conclusion%20">Best Practice for Teams Using Git</a></li>
+<li><a href="https://about.gitlab.com/images/press/git-cheat-sheet.pdf">Git Cheat Sheet</a></li>
+<li><a href="https://codingsight.com/git-branching-naming-convention-best-practices/#:~:text=Git%20Branching%20Naming%20Convention%201%201.%20Start%20branch,Avoid%20long%20descriptive%20names%20for%20long-lived%20branches%20">Git Naming Conventions</a></li>
 <br>
 <p>These links should give you some insight into how Git functions, and get you started using Git confidently<p>
 </body>
