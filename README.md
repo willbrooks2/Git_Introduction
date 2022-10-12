@@ -1,6 +1,6 @@
-# Git_Introduction
 <!DOCTYPE html>
 <html>
+<h1>Git Introduction</h1>
 <head>
 This is an introduction to GitHub for AIF. It should provide you with relevant information to get started.
 </head>
