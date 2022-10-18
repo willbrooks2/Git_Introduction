@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<h1>Git Introduction</h1>
+<h1>An Introduction to Git</h1>
 <head>
 <p>This is an introduction to GitHub for AIF. It should provide you with relevant information to <strong>get started</strong></p>
 </head>
