@@ -2,16 +2,16 @@
 <html>
 <h1>Git Introduction</h1>
 <head>
-This is an introduction to GitHub for AIF. It should provide you with relevant information to get started.
+<p>This is an introduction to GitHub for AIF. It should provide you with relevant information to <strong>get started</strong></p>
 </head>
 <body>
 <h2>Introducing GitHub</h2>
-<p>This is the basis to some beneficial progress in version control, collaboration and transparency</p>
+<p>This is the basis to some beneficial progress in <strong>version control, collaboration and transparency</strong></p>
 <p>It is an example of how Git can be used, and why it can be beneficial to the team!</p>
 <h2>Useful Features</h2>
-<li>Creating an organisation which allows us to collaborate</li>
-<li>Open source platform for transparency</li>
-<li>Stored version control and edit log</li>
+  <li>Creating an organisation which allows us to <strong>collaborate</strong></li>
+  <li>Open source platform for <strong>transparency</strong></li>
+  <li>Stored <strong>version control</strong> and edit log</li>
 <li>Intuitive and accessible program</li>
 <li>Collaboration between project members on R scripts, SQL queries, word documents etc.</li>
 <br>
